@@ -1,0 +1,4 @@
+repository "one_way_2graduate@YTU_GameDev@cloud"
+  path "/"
+    smartbranch "/main"  
+     
